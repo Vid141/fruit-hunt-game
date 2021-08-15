@@ -1,1 +1,2 @@
-# fruit-hunt-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
